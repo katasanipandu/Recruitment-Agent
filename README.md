@@ -5,8 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 An intelligent hiring workflow built using **LangGraph** that automates candidate evaluation, skill matching, and interview routing.
 
